@@ -1,0 +1,18 @@
+@charset "utf-8";
+button {
+    border: 0 none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
+    color: hsl(0, 0%, 100%);
+    font-weight: 800;
+    text-shadow: 1px 1px 1px hsl(0, 0%, 0%);
+    font-family: Montserrat, sans-serif;
+    font-size: 100%;
+    
+}
+
+.btnOrange {
+    background: hsl(39, 100%, 50%) none repeat scroll 0 0;
+}
+
+
